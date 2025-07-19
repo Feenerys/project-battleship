@@ -1,3 +1,3 @@
-# TEMPLATE-js-webpack
+# Project Battleship
 
-Template for JavaScript webpack projects, mainly for TheOdinProject.
+A battleship project following The Odin Project course.
